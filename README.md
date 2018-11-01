@@ -1,2 +1,9 @@
+This provject is now being maintained by the following code repos below...
 
-preview: https://musing-pike-06d1da.netlify.com/
+Backend URL: https://brian-lambda-notes.herokuapp.com/
+
+Backend Github: https://github.com/BrianARuff/Lambda_Notes_Backend
+
+FE URL: https://brian-lambda-notes-fe.herokuapp.com/
+
+FE Github: https://github.com/BrianARuff/lambda-notes-frontend
